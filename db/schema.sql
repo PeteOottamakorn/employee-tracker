@@ -1,3 +1,4 @@
+-- Drops and creates database to ensure clean database
 DROP DATABASE IF EXISTS company_db;
 CREATE DATABASE company_db;
 
